@@ -1,0 +1,38 @@
+Practice program - 1
+This page contain simple output based questions for C++
+
+ 1. Rohan wants to print the following calculation on the console.
+
+Copy
+2.3 + 4.9234 = 7.2234
+9 + 7 = 16
+7.235 - 5.336 = 1.899
+3.3 * 4.5 = 14.85
+Please help him by writing C++ code to achieve the mentioned task.
+
+Ramesh is confused, he wants to print the following patterns on console.
+
+Copy
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * * 
+Copy
+*
+* *
+* * *
+* * * *
+Copy
+      *
+    * *
+  * * *
+* * * *
+Copy
+   *   
+  * *
+ * * *
+* * * *   
+Print all the patterns only using cout statements.
+
+Write a program to print your details like name, email, mobile, and address. Using cout statement.
