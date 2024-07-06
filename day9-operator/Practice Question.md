@@ -26,5 +26,6 @@ heat water from an initial temperature to a final temperature. Your program shou
 
     >where M is the weight of water in kilograms temperatures are in degrees Celsius, and energy Q is measured in joules. 
     
-    >Here is a sample run
+    Here is a sample run:
+    
     ![sample run](./resources/q6.jpg)
