@@ -1,4 +1,4 @@
-### Input, Output & Arithmetaic Operator
+### Input, Output & Arithmetic Operator
 
 1. Write a program to accept two integer numbers from user. And perform addition and substraction. Display the reuslts of the operation on console.
 
