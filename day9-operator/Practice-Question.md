@@ -35,3 +35,8 @@ heat water from an initial temperature to a final temperature. Your program shou
     >interest = balance x (annualInterestRate/1200)
 
     Write a program that reads the balance and the annual percentage interest rate and displays the interest for the next month.
+
+8. Ravi and Shyam were playing a game. In the first turn of the game, Ravi will give an integer dividend and an integer divisor to Shyam. Then Shyam has to tell him the remainder of the division. In the second turn, Shyam will repeat the procedure. 
+
+    To help them, please write a program that accepts Dividend, and Divisor from the user and print the remainder on the console.
+    ![hint](./resources/q8.jpg)
