@@ -15,3 +15,5 @@ int main(){
     cout << "User Age = " << age << "\n";
     return 0;
 }
+//WAP to accept two integer values from user and
+// print there  sum on the console.
