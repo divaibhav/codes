@@ -42,7 +42,30 @@ int main(){
     int min_failed = 2;
 
     if(fail_count < min_failed){
-        // complete grade calculation logic
+         // complete grade calculation logic
+        float percent = (math_marks + english_marks + hindi_marks
+                        + computer_marks + science_marks) / 5.0;
+        if(percent >= 91 && percent <= 100){
+            cout << "Grade A+" << "\n";
+        }
+        else if(percent >= 81){
+            cout << "Grade A" << "\n";
+        }
+        else if(percent >= 71){
+            cout << "Grade B+" << "\n";
+        }
+        else if(percent >= 61){
+            cout << "Grade B" << "\n";
+        }
+        else if( percent >= 51){
+            cout << "Grade C" << "\n";           
+        }
+        else if(percent >= 41){
+            cout << "Grade D" << "\n"; 
+        }
+        else{
+            
+        }
     }
     else{
         cout << "Grade not Calculate" << "\n";
