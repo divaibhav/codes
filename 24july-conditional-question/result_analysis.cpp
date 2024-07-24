@@ -39,7 +39,7 @@ int main(){
     cout << "Total Marks = " << total_marks << "\n";
     cout << "Percentage = " << percentage << "\n";
 
-    // I how many subjects student scored 60% or more
+    // In how many subjects student scored 60% or more
     int count = 0; // counter to count the number of subjects, in which student scored 60% or more
     int min_percentage = 60;
        // count++ ;
