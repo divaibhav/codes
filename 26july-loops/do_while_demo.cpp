@@ -17,10 +17,10 @@ using namespace std;
 int main(){
    char user_choice = 0;
    do{
-    cout << "Do you want to continue, press  Y or n" << "\n";
+    cout << "Do you want to continue, press  Y Otherwise n" << "\n";
     
-    //cin >> user_choice;
-   } while(1);
+    cin >> user_choice;
+   } while(user_choice == 'Y');
 
    return 0;
 }
